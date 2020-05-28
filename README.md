@@ -9,3 +9,6 @@ https://findwork.dev/blog/adding-charts-to-django-admin/
 https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js
 ## CSS
 https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.css
+
+# Image
+![image](https://i.imgur.com/LAGKXvL.png)
